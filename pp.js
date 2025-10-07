@@ -1,0 +1,3 @@
+{
+alert (" AHBAN " + document.cookie);
+}
